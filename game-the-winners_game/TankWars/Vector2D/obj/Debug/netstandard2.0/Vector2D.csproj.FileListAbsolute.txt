@@ -1,0 +1,10 @@
+C:\Users\sblan\source\repos\game-the-winners_game\TankWars\Vector2D\bin\Debug\netstandard2.0\Vector2D.deps.json
+C:\Users\sblan\source\repos\game-the-winners_game\TankWars\Vector2D\bin\Debug\netstandard2.0\Vector2D.dll
+C:\Users\sblan\source\repos\game-the-winners_game\TankWars\Vector2D\bin\Debug\netstandard2.0\Vector2D.pdb
+C:\Users\sblan\source\repos\game-the-winners_game\TankWars\Vector2D\obj\Debug\netstandard2.0\Vector2D.csproj.AssemblyReference.cache
+C:\Users\sblan\source\repos\game-the-winners_game\TankWars\Vector2D\obj\Debug\netstandard2.0\Vector2D.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sblan\source\repos\game-the-winners_game\TankWars\Vector2D\obj\Debug\netstandard2.0\Vector2D.AssemblyInfoInputs.cache
+C:\Users\sblan\source\repos\game-the-winners_game\TankWars\Vector2D\obj\Debug\netstandard2.0\Vector2D.AssemblyInfo.cs
+C:\Users\sblan\source\repos\game-the-winners_game\TankWars\Vector2D\obj\Debug\netstandard2.0\Vector2D.csproj.CoreCompileInputs.cache
+C:\Users\sblan\source\repos\game-the-winners_game\TankWars\Vector2D\obj\Debug\netstandard2.0\Vector2D.dll
+C:\Users\sblan\source\repos\game-the-winners_game\TankWars\Vector2D\obj\Debug\netstandard2.0\Vector2D.pdb

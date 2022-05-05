@@ -1,0 +1,10 @@
+C:\Users\sblan\source\repos\game-the-winners_game\PS7\NetworkController\bin\Debug\netstandard2.0\NetworkController.deps.json
+C:\Users\sblan\source\repos\game-the-winners_game\PS7\NetworkController\bin\Debug\netstandard2.0\NetworkController.dll
+C:\Users\sblan\source\repos\game-the-winners_game\PS7\NetworkController\bin\Debug\netstandard2.0\NetworkController.pdb
+C:\Users\sblan\source\repos\game-the-winners_game\PS7\NetworkController\obj\Debug\netstandard2.0\NetworkController.csproj.AssemblyReference.cache
+C:\Users\sblan\source\repos\game-the-winners_game\PS7\NetworkController\obj\Debug\netstandard2.0\NetworkController.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sblan\source\repos\game-the-winners_game\PS7\NetworkController\obj\Debug\netstandard2.0\NetworkController.AssemblyInfoInputs.cache
+C:\Users\sblan\source\repos\game-the-winners_game\PS7\NetworkController\obj\Debug\netstandard2.0\NetworkController.AssemblyInfo.cs
+C:\Users\sblan\source\repos\game-the-winners_game\PS7\NetworkController\obj\Debug\netstandard2.0\NetworkController.csproj.CoreCompileInputs.cache
+C:\Users\sblan\source\repos\game-the-winners_game\PS7\NetworkController\obj\Debug\netstandard2.0\NetworkController.dll
+C:\Users\sblan\source\repos\game-the-winners_game\PS7\NetworkController\obj\Debug\netstandard2.0\NetworkController.pdb

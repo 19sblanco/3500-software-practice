@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Gbg4e8X0S9EbUGdO6WEqy67dnlE+SUtA5at3TFApDB4imjNXlxrrhUcWtb1NFUxbZdrpMAAFJOQxYJHJ7FSxcg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sblan\\Source\\Repos\\game-the-winners_game\\PS7\\NetworkController\\NetworkController.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sblan\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\sblan\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

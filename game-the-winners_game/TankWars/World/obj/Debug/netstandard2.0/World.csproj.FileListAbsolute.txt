@@ -1,0 +1,12 @@
+C:\Users\sblan\source\repos\game-the-winners_game\TankWars\World\obj\Debug\netstandard2.0\World.csproj.AssemblyReference.cache
+C:\Users\sblan\source\repos\game-the-winners_game\TankWars\World\obj\Debug\netstandard2.0\World.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sblan\source\repos\game-the-winners_game\TankWars\World\obj\Debug\netstandard2.0\World.AssemblyInfoInputs.cache
+C:\Users\sblan\source\repos\game-the-winners_game\TankWars\World\obj\Debug\netstandard2.0\World.AssemblyInfo.cs
+C:\Users\sblan\source\repos\game-the-winners_game\TankWars\World\obj\Debug\netstandard2.0\World.csproj.CoreCompileInputs.cache
+C:\Users\sblan\source\repos\game-the-winners_game\TankWars\World\bin\Debug\netstandard2.0\World.deps.json
+C:\Users\sblan\source\repos\game-the-winners_game\TankWars\World\bin\Debug\netstandard2.0\World.dll
+C:\Users\sblan\source\repos\game-the-winners_game\TankWars\World\bin\Debug\netstandard2.0\World.pdb
+C:\Users\sblan\source\repos\game-the-winners_game\TankWars\World\bin\Debug\netstandard2.0\Vector2D.dll
+C:\Users\sblan\source\repos\game-the-winners_game\TankWars\World\bin\Debug\netstandard2.0\Vector2D.pdb
+C:\Users\sblan\source\repos\game-the-winners_game\TankWars\World\obj\Debug\netstandard2.0\World.dll
+C:\Users\sblan\source\repos\game-the-winners_game\TankWars\World\obj\Debug\netstandard2.0\World.pdb

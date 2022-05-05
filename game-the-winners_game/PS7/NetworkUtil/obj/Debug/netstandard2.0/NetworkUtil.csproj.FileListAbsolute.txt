@@ -1,0 +1,13 @@
+C:\Users\sblan\source\repos\game-the-winners_game\PS7\NetworkUtil\bin\Debug\netstandard2.0\NetworkUtil.deps.json
+C:\Users\sblan\source\repos\game-the-winners_game\PS7\NetworkUtil\bin\Debug\netstandard2.0\NetworkUtil.dll
+C:\Users\sblan\source\repos\game-the-winners_game\PS7\NetworkUtil\bin\Debug\netstandard2.0\NetworkUtil.pdb
+C:\Users\sblan\source\repos\game-the-winners_game\PS7\NetworkUtil\bin\Debug\netstandard2.0\NetworkController.dll
+C:\Users\sblan\source\repos\game-the-winners_game\PS7\NetworkUtil\bin\Debug\netstandard2.0\NetworkController.pdb
+C:\Users\sblan\source\repos\game-the-winners_game\PS7\NetworkUtil\obj\Debug\netstandard2.0\NetworkUtil.csproj.AssemblyReference.cache
+C:\Users\sblan\source\repos\game-the-winners_game\PS7\NetworkUtil\obj\Debug\netstandard2.0\NetworkUtil.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sblan\source\repos\game-the-winners_game\PS7\NetworkUtil\obj\Debug\netstandard2.0\NetworkUtil.AssemblyInfoInputs.cache
+C:\Users\sblan\source\repos\game-the-winners_game\PS7\NetworkUtil\obj\Debug\netstandard2.0\NetworkUtil.AssemblyInfo.cs
+C:\Users\sblan\source\repos\game-the-winners_game\PS7\NetworkUtil\obj\Debug\netstandard2.0\NetworkUtil.csproj.CoreCompileInputs.cache
+C:\Users\sblan\source\repos\game-the-winners_game\PS7\NetworkUtil\obj\Debug\netstandard2.0\NetworkUtil.dll
+C:\Users\sblan\source\repos\game-the-winners_game\PS7\NetworkUtil\obj\Debug\netstandard2.0\NetworkUtil.pdb
+C:\Users\sblan\Source\Repos\game-the-winners_game\PS7\NetworkUtil\obj\Debug\netstandard2.0\NetworkUtil.csproj.CopyComplete
